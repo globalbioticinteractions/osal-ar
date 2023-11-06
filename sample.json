@@ -1,0 +1,1452 @@
+{
+  "timestamp": "2023-11-06T16:53:57.198-05:00",
+  "records": [
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "000073f3-e4d0-4c69-b424-47f9582754a4",
+      "collecting_unit_display": "OSAL 0119404",
+      "verbatim_transcript_display": "[Pickerington Ponds Metro Park, Canal Winchester, OH. Site #1. | 42850 | 95 EtOH in the field | ex OSAL 0119247 ] [OSAL0119404 | 75% EtOH | 1-F | DNA voucher 119247-1 | Dermacentor variabilis | washed] [DNA extract 119247-1]",
+      "identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "identified_as_display": "Dermacentor variabilis",
+      "valid_identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "valid_identified_as_display": "Dermacentor variabilis",
+      "locality_id": "41d35727-ded0-41ca-a1a8-2226b4d05efa",
+      "locality_display": "Pickerington Ponds Metro Park, Lado site 1, Canal Winchester, Franklin Co., OH, U.S.A.",
+      "latitude_display": "39.8847",
+      "longitude_display": "-82.7969",
+      "field_code_display": null,
+      "collecting_method_display": "drag",
+      "specimen_sex_display": "female",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "d9e3557f-726b-40db-acbe-466bc0f8f3e1",
+          "name": "Ohio"
+        }
+      ],
+      "counties": [
+        {
+          "id": "c8ffadb1-420c-417f-aaad-596c202ef107",
+          "name": "Franklin"
+        }
+      ],
+      "towns": [
+        {
+          "id": "b0b59506-7ea7-4bc2-b257-ef912df5b73d",
+          "name": "Canal Winchester"
+        }
+      ],
+      "collecting_date": "2017-04-25",
+      "specimen_image_modal_title": "OSAL 0119404",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "0041034d-6db0-4574-a55a-86f30d536a1e",
+      "collecting_unit_display": "OSAL 0129061",
+      "verbatim_transcript_display": "[Dermacentor variabilis | 1-F | 119922-10 | | Pickerington Ponds Metro Park Site 2, Winchester, OH | OSAL0129061 ] [DNA extract 119922-10]",
+      "identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "identified_as_display": "Dermacentor variabilis",
+      "valid_identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "valid_identified_as_display": "Dermacentor variabilis",
+      "locality_id": "8c4b09ea-0f79-4059-ba8a-b8e90cf84cce",
+      "locality_display": "Pickerington Ponds Metro Park, Lado site 2, Bowen Rd., Canal Winchester, Franklin Co., OH, U.S.A.",
+      "latitude_display": "39.8822",
+      "longitude_display": "-82.8044",
+      "field_code_display": null,
+      "collecting_method_display": "drag",
+      "specimen_sex_display": "female",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "d9e3557f-726b-40db-acbe-466bc0f8f3e1",
+          "name": "Ohio"
+        }
+      ],
+      "counties": [
+        {
+          "id": "c8ffadb1-420c-417f-aaad-596c202ef107",
+          "name": "Franklin"
+        }
+      ],
+      "towns": [
+        {
+          "id": "b0b59506-7ea7-4bc2-b257-ef912df5b73d",
+          "name": "Canal Winchester"
+        }
+      ],
+      "collecting_date": "2017-06-02",
+      "specimen_image_modal_title": "OSAL 0129061",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "005e0606-a031-4eaf-8dfb-68d60e87425b",
+      "collecting_unit_display": "OSAL 0125250",
+      "verbatim_transcript_display": "[Dermacentor variabilis | DNA voucher | DNA code OSAL 0126652F ] [DNA extract 126652F]",
+      "identified_as_id": "8ac1b6fc-072b-43b8-9d2a-8d96cb69ac6c",
+      "identified_as_display": "Dermacentor similis",
+      "valid_identified_as_id": "8ac1b6fc-072b-43b8-9d2a-8d96cb69ac6c",
+      "valid_identified_as_display": "Dermacentor similis",
+      "locality_id": "1297836e-66c7-4e4d-8523-2b6105f5f778",
+      "locality_display": "Redding, CDPH Loc ID 7957, Shasta Co., CA, U.S.A.",
+      "latitude_display": "40.5865",
+      "longitude_display": "-122.3917",
+      "field_code_display": null,
+      "collecting_method_display": "none specified",
+      "specimen_sex_display": "male",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Yoshimizu (Melissa)",
+          "agent_id": "02c42335-444c-499b-bc74-5834e056ed46"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "eb3e49e1-e200-41df-8040-05441ff536c5",
+          "name": "California"
+        }
+      ],
+      "counties": [
+        {
+          "id": "c682188a-5620-4555-945c-34dbcc021a00",
+          "name": "Shasta"
+        }
+      ],
+      "towns": [
+        {
+          "id": "c91d5c5c-875c-4a74-b966-f46eb7cc2811",
+          "name": "Redding"
+        }
+      ],
+      "collecting_date": "2019-04-26",
+      "specimen_image_modal_title": "OSAL 0125250",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "00ab7c2a-cf19-4525-9abd-bfe758958674",
+      "collecting_unit_display": "OSAL 0119953",
+      "verbatim_transcript_display": "[Benton Co, Arkansas. Centerton. | 42862 | 95 field | ] [OSAL0119953 | 95% EtOH | 1-M | Dermacentor variabilis | washed YES]",
+      "identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "identified_as_display": "Dermacentor variabilis",
+      "valid_identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "valid_identified_as_display": "Dermacentor variabilis",
+      "locality_id": "abefc7a7-fcfa-4f93-9e09-16e815d60dfd",
+      "locality_display": "Centerton, Benton Co., AR, U.S.A.",
+      "latitude_display": "36.3597",
+      "longitude_display": "-94.2853",
+      "field_code_display": null,
+      "collecting_method_display": "not specified",
+      "specimen_sex_display": "male",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Durden, L. A. (Lance A.)",
+          "agent_id": "0d882cb1-55a7-438a-a326-4c92cb2e7462"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [],
+      "states": [],
+      "counties": [],
+      "towns": [],
+      "collecting_date": "2017-05-07",
+      "specimen_image_modal_title": "OSAL 0119953",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "00be5934-365e-4d09-b360-118250314205",
+      "collecting_unit_display": "OSAL 0129074",
+      "verbatim_transcript_display": "[Dermacentor variabilis | 2-M 1-F | Spring, M. (MaLisa) | 9-Jun-2018 | West Union, Adams County, Ohio | OSAL0129074 ]",
+      "identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "identified_as_display": "Dermacentor variabilis",
+      "valid_identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "valid_identified_as_display": "Dermacentor variabilis",
+      "locality_id": "84e4cb0c-193e-4084-a586-75d8a0901eb5",
+      "locality_display": "West Union, Adams Co., OH",
+      "latitude_display": "38.7944444444444",
+      "longitude_display": "-83.5452777777778",
+      "field_code_display": null,
+      "collecting_method_display": "not specified",
+      "specimen_sex_display": "female",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Spring, M. (MaLisa)",
+          "agent_id": "0ec64fb0-759f-4864-a956-034db234dada"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "d9e3557f-726b-40db-acbe-466bc0f8f3e1",
+          "name": "Ohio"
+        }
+      ],
+      "counties": [
+        {
+          "id": "fde6e2df-177a-40fd-8554-366e6ecba8f9",
+          "name": "Adams"
+        }
+      ],
+      "towns": [
+        {
+          "id": "e27f4354-ab8b-4f73-95d4-4699cf99c701",
+          "name": "West Union"
+        }
+      ],
+      "collecting_date": "2018-06-09",
+      "specimen_image_modal_title": "OSAL 0129074",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "00e6425c-c99b-407b-8e01-75b6570da20e",
+      "collecting_unit_display": "OSAL 0115036",
+      "verbatim_transcript_display": "[Vinton-Furnace Experimental Forest, Vinton Co, OH | id=68 | ex OSAL 0119240 ] [OSAL0115036 | 75% EtOH | 1-M | DNA voucher 119240-6 | Amblyomma americanum | washed] [DNA extract 119240-6]",
+      "identified_as_id": "1de7d890-0b0c-4789-885e-030384600887",
+      "identified_as_display": "Amblyomma americanum",
+      "valid_identified_as_id": "1de7d890-0b0c-4789-885e-030384600887",
+      "valid_identified_as_display": "Amblyomma americanum",
+      "locality_id": "ed687fef-90a8-4cfe-927e-2a8c713e6cab",
+      "locality_display": "Vinton Furnace Experimental Forest, Vinton Co., OH",
+      "latitude_display": "39.2183333333333",
+      "longitude_display": "-82.4077777777778",
+      "field_code_display": null,
+      "collecting_method_display": "none specified",
+      "specimen_sex_display": "male",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Hoffman, A. (Andrew)",
+          "agent_id": "8fdb1d55-040b-43e2-8e65-c47b673cc13e"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "d9e3557f-726b-40db-acbe-466bc0f8f3e1",
+          "name": "Ohio"
+        }
+      ],
+      "counties": [
+        {
+          "id": "0299ed27-768e-4c05-932b-505a46460772",
+          "name": "Vinton"
+        }
+      ],
+      "towns": [],
+      "collecting_date": "2017-03-25",
+      "specimen_image_modal_title": "OSAL 0115036",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "00f5e1a0-ebce-43ec-9eba-70c8b4baf20e",
+      "collecting_unit_display": "OSAL 0129834",
+      "verbatim_transcript_display": "[Dermacentor variabilis | 1-F | 115139-A | 16-May-2017 | Crescent Beach, Cape Elizabeth, Maine | OSAL0129834 ] [DNA extract 115139-A]",
+      "identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "identified_as_display": "Dermacentor variabilis",
+      "valid_identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "valid_identified_as_display": "Dermacentor variabilis",
+      "locality_id": "2cdd9358-c748-465f-af85-d995801d0a5a",
+      "locality_display": "Crescent Beach State Park, Cape Elizabeth, Cumberland Co., ME, U.S.A.",
+      "latitude_display": "43.5981",
+      "longitude_display": "-70.2281",
+      "field_code_display": null,
+      "collecting_method_display": "none specified",
+      "specimen_sex_display": "female",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Welch, M.",
+          "agent_id": "ff26eb01-5004-42d8-bf09-c1d0e7d47083"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "7a1c32d2-a83f-4271-8128-206b466cf9a1",
+          "name": "Maine"
+        }
+      ],
+      "counties": [
+        {
+          "id": "c644d749-db99-43c0-904a-a3ab47631880",
+          "name": "Cumberland"
+        }
+      ],
+      "towns": [],
+      "collecting_date": "2017-05-16",
+      "specimen_image_modal_title": "OSAL 0129834",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "011d4e16-e597-49ca-a4a3-0daf8bfc19b2",
+      "collecting_unit_display": "OSAL 0125208",
+      "verbatim_transcript_display": "[Dermacentor variabilis | DNA voucher | DNA code OSAL 0126701B ] [DNA extract 126701B]",
+      "identified_as_id": "8ac1b6fc-072b-43b8-9d2a-8d96cb69ac6c",
+      "identified_as_display": "Dermacentor similis",
+      "valid_identified_as_id": "8ac1b6fc-072b-43b8-9d2a-8d96cb69ac6c",
+      "valid_identified_as_display": "Dermacentor similis",
+      "locality_id": "c9ef8937-d39d-4aac-b206-12add4bcc54e",
+      "locality_display": "Banks Lake, 500m, Grant Co., WA, U.S.A.",
+      "latitude_display": "47.8539",
+      "longitude_display": "-119.1718",
+      "field_code_display": null,
+      "collecting_method_display": "none specified",
+      "specimen_sex_display": "female",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "none specified",
+          "agent_id": "3a1aaf97-b5ce-48fa-8e00-bcf89ac83d30"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "4bc799da-456e-4579-9031-0fc1eb07adf4",
+          "name": "Washington"
+        }
+      ],
+      "counties": [
+        {
+          "id": "abea0006-1dd0-4798-b6da-635dcfdb2921",
+          "name": "Grant"
+        }
+      ],
+      "towns": [],
+      "collecting_date": "none specified",
+      "specimen_image_modal_title": "OSAL 0125208",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "01273a3c-38da-4977-92e0-467203535bba",
+      "collecting_unit_display": "OSAL 0129736",
+      "verbatim_transcript_display": "[Dermacentor variabilis | 1-F 1-M | Spring, M. (MaLisa) | 7-May-2018 | Glacier Ridge Metro park. Plain City. Site 1 | OSAL0129736 ]",
+      "identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "identified_as_display": "Dermacentor variabilis",
+      "valid_identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "valid_identified_as_display": "Dermacentor variabilis",
+      "locality_id": "498ef717-fc3b-4169-803b-01b80a223e77",
+      "locality_display": "Glacier Ridge Metro Park, Lado site 1, Plain City, Union Co., OH, U.S.A.",
+      "latitude_display": "40.1568",
+      "longitude_display": "-83.1968",
+      "field_code_display": null,
+      "collecting_method_display": "not specified",
+      "specimen_sex_display": "female",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Spring, M. (MaLisa)",
+          "agent_id": "0ec64fb0-759f-4864-a956-034db234dada"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "d9e3557f-726b-40db-acbe-466bc0f8f3e1",
+          "name": "Ohio"
+        }
+      ],
+      "counties": [],
+      "towns": [
+        {
+          "id": "0b196148-b621-4c87-af85-2fed65f0a338",
+          "name": "Plain City"
+        }
+      ],
+      "collecting_date": "2018-05-07",
+      "specimen_image_modal_title": "OSAL 0129736",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "0136d40c-2004-4a7d-9d84-33afc868f676",
+      "collecting_unit_display": "OSAL 0129119",
+      "verbatim_transcript_display": "[Dermacentor variabilis | 1-M | 119569 | Lado, P. (Paula) | 11-May-2017 | Oak Openings MP. Swanton, OH. Girdham and Reed Rd. | OSAL0129119 ] [DNA extract 119569]",
+      "identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "identified_as_display": "Dermacentor variabilis",
+      "valid_identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "valid_identified_as_display": "Dermacentor variabilis",
+      "locality_id": "faa4fe5b-362e-4239-acd7-321bb0734b73",
+      "locality_display": "Oak Openings Preserve Metropark, Girdham and Reed Rd., Swanton, Lucas County, OH, U.S.A.",
+      "latitude_display": "41.5492",
+      "longitude_display": "-83.8546",
+      "field_code_display": null,
+      "collecting_method_display": "drag",
+      "specimen_sex_display": "male",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "d9e3557f-726b-40db-acbe-466bc0f8f3e1",
+          "name": "Ohio"
+        }
+      ],
+      "counties": [
+        {
+          "id": "537186f8-2e55-4520-a898-38d2229c3b99",
+          "name": "Lucas"
+        }
+      ],
+      "towns": [
+        {
+          "id": "fee60f46-7e22-42dd-aab7-321a723eddcd",
+          "name": "Swanton"
+        }
+      ],
+      "collecting_date": "2017-05-11",
+      "specimen_image_modal_title": "OSAL 0129119",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "015b2e43-cf81-4d57-bf53-6e4d8f4263d8",
+      "collecting_unit_display": "OSAL 0127557",
+      "verbatim_transcript_display": "[Amblyomma americanum | 1-F | DNA voucher DNA code 129759A | Mount Laurel, New Jersey ] [DNA extract 129759A]",
+      "identified_as_id": "1de7d890-0b0c-4789-885e-030384600887",
+      "identified_as_display": "Amblyomma americanum",
+      "valid_identified_as_id": "1de7d890-0b0c-4789-885e-030384600887",
+      "valid_identified_as_display": "Amblyomma americanum",
+      "locality_id": "999e7e0f-30de-470a-a74e-a25c00d0d85c",
+      "locality_display": "Mount Laurel, Burlington Co., NJ, U.S.A.",
+      "latitude_display": "39.9339",
+      "longitude_display": "-74.8911",
+      "field_code_display": null,
+      "collecting_method_display": "none specified",
+      "specimen_sex_display": "female",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Qurollo, B. A. (Barbara)",
+          "agent_id": "36f60f1f-b219-4b81-8b0f-8f10c1bba16c"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [],
+      "states": [],
+      "counties": [],
+      "towns": [],
+      "collecting_date": "none specified",
+      "specimen_image_modal_title": "OSAL 0127557",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "019b7744-cbe6-4e5d-af86-19889e5842ca",
+      "collecting_unit_display": "OSAL 0126698",
+      "verbatim_transcript_display": "[Amblyomma maculatum?? | 43634 | Cooper, Mark., 43651 | 191 old River, Cartersville, Georgia] [1F]",
+      "identified_as_id": "9052021d-11a3-4231-89f2-16b4f99903c1",
+      "identified_as_display": "Amblyomma",
+      "valid_identified_as_id": "9052021d-11a3-4231-89f2-16b4f99903c1",
+      "valid_identified_as_display": "Amblyomma",
+      "locality_id": "ca242570-8365-4cc0-a1ee-2220be5358a0",
+      "locality_display": "Cartersville, Bartow Co., GA",
+      "latitude_display": "34.165",
+      "longitude_display": "-84.8",
+      "field_code_display": null,
+      "collecting_method_display": "not specified",
+      "specimen_sex_display": "female",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Cooper, M.",
+          "agent_id": "add56a79-080a-42b8-8cf2-3d6e515fe377"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "3bad3b45-87d4-48e0-a9bb-9b9f8c0fb3e8",
+          "name": "Georgia"
+        }
+      ],
+      "counties": [
+        {
+          "id": "260cb4e3-1718-4284-af10-e134c253e8a6",
+          "name": "Bartow"
+        }
+      ],
+      "towns": [],
+      "collecting_date": "2019-07-05",
+      "specimen_image_modal_title": "OSAL 0126698",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "01b7775a-7417-4cfc-a0b5-fd33039faa27",
+      "collecting_unit_display": "OSAL 0129216",
+      "verbatim_transcript_display": "[Dermacentor variabilis | 1-M | 129734-G | Lado, P. (Paula) | 16-May-2018 | Oak Openings Metro Park, Toledo, Ohio | OSAL0129216 ] [DNA extract 129734-G]",
+      "identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "identified_as_display": "Dermacentor variabilis",
+      "valid_identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "valid_identified_as_display": "Dermacentor variabilis",
+      "locality_id": "9da27b32-272b-4286-a167-b2f9a5daeb6e",
+      "locality_display": "Oak Openings Preserve Metropark (sand dunes), Lucas County, OH, U.S.A.",
+      "latitude_display": "41.5557",
+      "longitude_display": "-83.8526",
+      "field_code_display": null,
+      "collecting_method_display": "drag",
+      "specimen_sex_display": "male",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "d9e3557f-726b-40db-acbe-466bc0f8f3e1",
+          "name": "Ohio"
+        }
+      ],
+      "counties": [
+        {
+          "id": "537186f8-2e55-4520-a898-38d2229c3b99",
+          "name": "Lucas"
+        }
+      ],
+      "towns": [],
+      "collecting_date": "2018-05-16",
+      "specimen_image_modal_title": "OSAL 0129216",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "0203754c-5c50-49b5-aeb7-53da5d613230",
+      "collecting_unit_display": "OSAL 0129099",
+      "verbatim_transcript_display": "[Dermacentor variabilis | 1-M | 129752G | Lado, P. (Paula) | 24-May-2018 | Pickerington Ponds Metro Park Site 2, Winchester, OH | OSAL0129099 ] [DNA extract 129752G]",
+      "identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "identified_as_display": "Dermacentor variabilis",
+      "valid_identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "valid_identified_as_display": "Dermacentor variabilis",
+      "locality_id": "8c4b09ea-0f79-4059-ba8a-b8e90cf84cce",
+      "locality_display": "Pickerington Ponds Metro Park, Lado site 2, Bowen Rd., Canal Winchester, Franklin Co., OH, U.S.A.",
+      "latitude_display": "39.8822",
+      "longitude_display": "-82.8044",
+      "field_code_display": null,
+      "collecting_method_display": "drag",
+      "specimen_sex_display": "male",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "d9e3557f-726b-40db-acbe-466bc0f8f3e1",
+          "name": "Ohio"
+        }
+      ],
+      "counties": [
+        {
+          "id": "c8ffadb1-420c-417f-aaad-596c202ef107",
+          "name": "Franklin"
+        }
+      ],
+      "towns": [
+        {
+          "id": "b0b59506-7ea7-4bc2-b257-ef912df5b73d",
+          "name": "Canal Winchester"
+        }
+      ],
+      "collecting_date": "2018-05-24",
+      "specimen_image_modal_title": "OSAL 0129099",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "024633cf-dc48-472f-ae28-e54eda1d917c",
+      "collecting_unit_display": "OSAL 0127520",
+      "verbatim_transcript_display": "[Amblyomma americanum | 1-M | DNA voucher DNA code 129127L | William B. Bankhead National Forest, Lawrence County, Alabama ] [DNA extract 129127L]",
+      "identified_as_id": "1de7d890-0b0c-4789-885e-030384600887",
+      "identified_as_display": "Amblyomma americanum",
+      "valid_identified_as_id": "1de7d890-0b0c-4789-885e-030384600887",
+      "valid_identified_as_display": "Amblyomma americanum",
+      "locality_id": "15170de2-dbf4-4364-a15c-2b36d57721dc",
+      "locality_display": "William B. Bankhead National Forest, Lawrence Co., AL, U.S.A.",
+      "latitude_display": "34.13",
+      "longitude_display": "-87.26",
+      "field_code_display": null,
+      "collecting_method_display": "none specified",
+      "specimen_sex_display": "male",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Newman (Brent)",
+          "agent_id": "f362010e-c7d5-48b2-8c6e-b06a71df3d2d"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "5011ac1c-9887-4dc5-84ba-793833ed5f0d",
+          "name": "Alabama"
+        }
+      ],
+      "counties": [
+        {
+          "id": "12cac937-b50d-40f5-9f4a-5f7f9cd8dd04",
+          "name": "Lawrence"
+        }
+      ],
+      "towns": [],
+      "collecting_date": "none specified",
+      "specimen_image_modal_title": "OSAL 0127520",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "02b32c9c-96ce-41fb-ab3d-c88e1b28521a",
+      "collecting_unit_display": "OSAL 0125248",
+      "verbatim_transcript_display": "[Dermacentor variabilis | DNA voucher | DNA code OSAL 0126652D ] [DNA extract 126652D]",
+      "identified_as_id": "8ac1b6fc-072b-43b8-9d2a-8d96cb69ac6c",
+      "identified_as_display": "Dermacentor similis",
+      "valid_identified_as_id": "8ac1b6fc-072b-43b8-9d2a-8d96cb69ac6c",
+      "valid_identified_as_display": "Dermacentor similis",
+      "locality_id": "1297836e-66c7-4e4d-8523-2b6105f5f778",
+      "locality_display": "Redding, CDPH Loc ID 7957, Shasta Co., CA, U.S.A.",
+      "latitude_display": "40.5865",
+      "longitude_display": "-122.3917",
+      "field_code_display": null,
+      "collecting_method_display": "none specified",
+      "specimen_sex_display": "female",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Yoshimizu (Melissa)",
+          "agent_id": "02c42335-444c-499b-bc74-5834e056ed46"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "eb3e49e1-e200-41df-8040-05441ff536c5",
+          "name": "California"
+        }
+      ],
+      "counties": [
+        {
+          "id": "c682188a-5620-4555-945c-34dbcc021a00",
+          "name": "Shasta"
+        }
+      ],
+      "towns": [
+        {
+          "id": "c91d5c5c-875c-4a74-b966-f46eb7cc2811",
+          "name": "Redding"
+        }
+      ],
+      "collecting_date": "2019-04-26",
+      "specimen_image_modal_title": "OSAL 0125248",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "02c7b66c-5a29-4a2c-8149-68ad4c626334",
+      "collecting_unit_display": "OSAL 0129827",
+      "verbatim_transcript_display": "[Dermacentor variabilis | 1-F | 119911-A | 28-May-2017 | Battelle Darby Creek Metro park, site 2, Galloway OH. | OSAL0129827 ] [DNA extract 119911-A]",
+      "identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "identified_as_display": "Dermacentor variabilis",
+      "valid_identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "valid_identified_as_display": "Dermacentor variabilis",
+      "locality_id": "40614e63-0646-4efb-b29f-1f103259e3cd",
+      "locality_display": "Battelle-Darby Metro Park, site April17 (2), Galloway, Franklin Co., OH, U.S.A.",
+      "latitude_display": "39.929",
+      "longitude_display": "-83.212",
+      "field_code_display": null,
+      "collecting_method_display": "drag",
+      "specimen_sex_display": "female",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "d9e3557f-726b-40db-acbe-466bc0f8f3e1",
+          "name": "Ohio"
+        }
+      ],
+      "counties": [
+        {
+          "id": "c8ffadb1-420c-417f-aaad-596c202ef107",
+          "name": "Franklin"
+        }
+      ],
+      "towns": [
+        {
+          "id": "4e43ca28-9fbd-4302-9603-ae50385d133a",
+          "name": "Galloway"
+        }
+      ],
+      "collecting_date": "2017-05-28",
+      "specimen_image_modal_title": "OSAL 0129827",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "02ec9195-ee40-4f50-a683-8650ae9129ce",
+      "collecting_unit_display": "OSAL 0125244",
+      "verbatim_transcript_display": "[Dermacentor variabilis | DNA voucher | DNA code OSAL 0126668C ] [DNA extract 126668C]",
+      "identified_as_id": "8ac1b6fc-072b-43b8-9d2a-8d96cb69ac6c",
+      "identified_as_display": "Dermacentor similis",
+      "valid_identified_as_id": "8ac1b6fc-072b-43b8-9d2a-8d96cb69ac6c",
+      "valid_identified_as_display": "Dermacentor similis",
+      "locality_id": "235ef0e6-af96-41af-9595-3307c2d7e456",
+      "locality_display": "Lytle Creek, San Bernardino Co., CA, U.S.A.",
+      "latitude_display": "34.26",
+      "longitude_display": "-117.5",
+      "field_code_display": null,
+      "collecting_method_display": "none specified",
+      "specimen_sex_display": "male",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Burns, J. (Joe)",
+          "agent_id": "cdf0352b-5993-42aa-b603-fc8bfaa82a7d"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "eb3e49e1-e200-41df-8040-05441ff536c5",
+          "name": "California"
+        }
+      ],
+      "counties": [
+        {
+          "id": "2d831f9b-0108-4f1e-ac77-5d6eea4a6ae8",
+          "name": "San Bernardino"
+        }
+      ],
+      "towns": [],
+      "collecting_date": "2019-06-30",
+      "specimen_image_modal_title": "OSAL 0125244",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "02fce30f-91d4-452c-9c7d-77bcffb49f43",
+      "collecting_unit_display": "OSAL 0129104",
+      "verbatim_transcript_display": "[Dermacentor variabilis | 1-F | 129753B | Lado, P. (Paula) | 29-May-2018 | Battelle Darby Creek Metro park, site 2, Galloway OH. | OSAL0129104 ] [DNA extract 129753B]",
+      "identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "identified_as_display": "Dermacentor variabilis",
+      "valid_identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "valid_identified_as_display": "Dermacentor variabilis",
+      "locality_id": "40614e63-0646-4efb-b29f-1f103259e3cd",
+      "locality_display": "Battelle-Darby Metro Park, site April17 (2), Galloway, Franklin Co., OH, U.S.A.",
+      "latitude_display": "39.929",
+      "longitude_display": "-83.212",
+      "field_code_display": null,
+      "collecting_method_display": "drag",
+      "specimen_sex_display": "female",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "d9e3557f-726b-40db-acbe-466bc0f8f3e1",
+          "name": "Ohio"
+        }
+      ],
+      "counties": [
+        {
+          "id": "c8ffadb1-420c-417f-aaad-596c202ef107",
+          "name": "Franklin"
+        }
+      ],
+      "towns": [
+        {
+          "id": "4e43ca28-9fbd-4302-9603-ae50385d133a",
+          "name": "Galloway"
+        }
+      ],
+      "collecting_date": "2018-05-29",
+      "specimen_image_modal_title": "OSAL 0129104",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "03210517-92c8-4f37-b832-7f5fb211505e",
+      "collecting_unit_display": "OSAL 0128223",
+      "verbatim_transcript_display": "[Dermacentor variabilis | 1-M | DNA voucher DNA code 128210A | Battelle Darby Creek Metro park, site 2, Galloway OH. ] [DNA extract 128210A]",
+      "identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "identified_as_display": "Dermacentor variabilis",
+      "valid_identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "valid_identified_as_display": "Dermacentor variabilis",
+      "locality_id": "40614e63-0646-4efb-b29f-1f103259e3cd",
+      "locality_display": "Battelle-Darby Metro Park, site April17 (2), Galloway, Franklin Co., OH, U.S.A.",
+      "latitude_display": "39.929",
+      "longitude_display": "-83.212",
+      "field_code_display": null,
+      "collecting_method_display": "drag",
+      "specimen_sex_display": "male",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "d9e3557f-726b-40db-acbe-466bc0f8f3e1",
+          "name": "Ohio"
+        }
+      ],
+      "counties": [
+        {
+          "id": "c8ffadb1-420c-417f-aaad-596c202ef107",
+          "name": "Franklin"
+        }
+      ],
+      "towns": [
+        {
+          "id": "4e43ca28-9fbd-4302-9603-ae50385d133a",
+          "name": "Galloway"
+        }
+      ],
+      "collecting_date": "2018-08-03",
+      "specimen_image_modal_title": "OSAL 0128223",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "0340b669-8735-4ed0-a31c-cf2277e438df",
+      "collecting_unit_display": "OSAL 0119230",
+      "verbatim_transcript_display": "[Dermacentor variabilis | 1-U | DNA voucher DNA code 10-99033 | Sent by Jim, collected by others., summer 2016 | Ocean Co. NJ ] [DNA extract 10-99033]",
+      "identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "identified_as_display": "Dermacentor variabilis",
+      "valid_identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "valid_identified_as_display": "Dermacentor variabilis",
+      "locality_id": "fa77a381-f664-44c3-9799-8afb6a9631b3",
+      "locality_display": "Ocean Co., NJ",
+      "latitude_display": "39.8658333333333",
+      "longitude_display": "-74.25",
+      "field_code_display": null,
+      "collecting_method_display": "none specified",
+      "specimen_sex_display": "unknown",
+      "life_stage_display": "unknown",
+      "determination_date_display": "none specified",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Occi (Jim)",
+          "agent_id": "254c4ea9-9b06-40ec-a531-125bc838faa4"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "none specified",
+          "agent_id": "3a1aaf97-b5ce-48fa-8e00-bcf89ac83d30"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "c1f3d15c-94eb-48ce-8ea9-4f9c66c2b091",
+          "name": "New Jersey"
+        }
+      ],
+      "counties": [
+        {
+          "id": "baca6d78-112b-40f6-8927-2ae7794f6429",
+          "name": "Ocean"
+        }
+      ],
+      "towns": [],
+      "collecting_date": "none specified",
+      "specimen_image_modal_title": "OSAL 0119230",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "038eba08-5665-4551-a1b9-5da9b8b29fc4",
+      "collecting_unit_display": "OSAL 0125243",
+      "verbatim_transcript_display": "[Dermacentor variabilis | DNA voucher | DNA code OSAL 0126668B ] [DNA extract 126668B]",
+      "identified_as_id": "8ac1b6fc-072b-43b8-9d2a-8d96cb69ac6c",
+      "identified_as_display": "Dermacentor similis",
+      "valid_identified_as_id": "8ac1b6fc-072b-43b8-9d2a-8d96cb69ac6c",
+      "valid_identified_as_display": "Dermacentor similis",
+      "locality_id": "235ef0e6-af96-41af-9595-3307c2d7e456",
+      "locality_display": "Lytle Creek, San Bernardino Co., CA, U.S.A.",
+      "latitude_display": "34.26",
+      "longitude_display": "-117.5",
+      "field_code_display": null,
+      "collecting_method_display": "none specified",
+      "specimen_sex_display": "female",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Burns, J. (Joe)",
+          "agent_id": "cdf0352b-5993-42aa-b603-fc8bfaa82a7d"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "eb3e49e1-e200-41df-8040-05441ff536c5",
+          "name": "California"
+        }
+      ],
+      "counties": [
+        {
+          "id": "2d831f9b-0108-4f1e-ac77-5d6eea4a6ae8",
+          "name": "San Bernardino"
+        }
+      ],
+      "towns": [],
+      "collecting_date": "2019-06-30",
+      "specimen_image_modal_title": "OSAL 0125243",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "039a3076-3386-49ad-b0d0-0d5f6fa54cf6",
+      "collecting_unit_display": "OSAL 0129139",
+      "verbatim_transcript_display": "[Amblyomma americanum | 9-F 4-M 42-N | Hixson, K. (Kathy) | 7-Jun-2018 | Big River Private Private Proerty, 15 S 0703185, 4220367 | OSAL0129139 ]",
+      "identified_as_id": "1de7d890-0b0c-4789-885e-030384600887",
+      "identified_as_display": "Amblyomma americanum",
+      "valid_identified_as_id": "1de7d890-0b0c-4789-885e-030384600887",
+      "valid_identified_as_display": "Amblyomma americanum",
+      "locality_id": "3b5c8fd5-4146-4823-ad7a-c07a5fecefd5",
+      "locality_display": "Big River private property, MO, U.S.A.",
+      "latitude_display": "38.1083",
+      "longitude_display": "-90.6825",
+      "field_code_display": null,
+      "collecting_method_display": "not specified",
+      "specimen_sex_display": "female",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Hixson, K. (Kathy)",
+          "agent_id": "07852824-2214-4c4e-8e4c-f07c009a431d"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "d8a628ac-5d71-4be8-8d06-44f638dd0457",
+          "name": "Missouri"
+        }
+      ],
+      "counties": [],
+      "towns": [],
+      "collecting_date": "2018-06-07",
+      "specimen_image_modal_title": "OSAL 0129139",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "03db38ec-84b6-4f13-b8d9-634b3bfa5fa5",
+      "collecting_unit_display": "OSAL 0115080",
+      "verbatim_transcript_display": "[Noxubee Co. Mississippi. Noxubee WR S. Portugal. | 42606 | ] [OSAL0115080 | 95% EtOH | 1-M | Dermacentor variabilis | washed NO]",
+      "identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "identified_as_display": "Dermacentor variabilis",
+      "valid_identified_as_id": "dd8cc896-54ef-4270-97a0-ab6c06db97d5",
+      "valid_identified_as_display": "Dermacentor variabilis",
+      "locality_id": "ead31e49-d390-4868-a703-442302391926",
+      "locality_display": "Noxubee National Wildlife Refuge, Douglas Bluff, Noxubee Co., MS, U.S.A.",
+      "latitude_display": "33.312",
+      "longitude_display": "-88.855",
+      "field_code_display": null,
+      "collecting_method_display": "not specified",
+      "specimen_sex_display": "male",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Goddard, J. (Jerome)",
+          "agent_id": "0fcea082-a367-439a-8314-a0017f592c3e"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "03a907e6-ef96-4576-b683-3b2a7277dbd8",
+          "name": "Mississippi"
+        }
+      ],
+      "counties": [
+        {
+          "id": "7c6e4789-e105-40d7-83fb-71c824d7f006",
+          "name": "Noxubee"
+        }
+      ],
+      "towns": [],
+      "collecting_date": "2016-08-24",
+      "specimen_image_modal_title": "OSAL 0115080",
+      "specimen_images": []
+    },
+    {
+      "storage_regime_id": "abb06e07-0c1c-484c-9892-fcab48188cee",
+      "storage_regime_display": "Ohio State University Acarology Laboratory, Columbus, OH",
+      "collecting_unit_id": "04106bf1-451e-4ed6-85eb-efd7b016e39e",
+      "collecting_unit_display": "OSAL 0125219",
+      "verbatim_transcript_display": "[Dermacentor variabilis | DNA voucher | DNA code OSAL 0126704C ] [DNA extract 126704C]",
+      "identified_as_id": "8ac1b6fc-072b-43b8-9d2a-8d96cb69ac6c",
+      "identified_as_display": "Dermacentor similis",
+      "valid_identified_as_id": "8ac1b6fc-072b-43b8-9d2a-8d96cb69ac6c",
+      "valid_identified_as_display": "Dermacentor similis",
+      "locality_id": "e98d385c-7901-4c4b-9877-80b3e8ac47c3",
+      "locality_display": "Moscow, Mill Rd., Latah Co., ID, U.S.A.",
+      "latitude_display": "46.7324",
+      "longitude_display": "-117.0002",
+      "field_code_display": null,
+      "collecting_method_display": "none specified",
+      "specimen_sex_display": "female",
+      "life_stage_display": "adult",
+      "determination_date_display": "2019",
+      "type_status_display": null,
+      "habitat_display": null,
+      "alternate_identifiers": [],
+      "collectors": [
+        {
+          "name": "Mason, K. (Kathleen)",
+          "agent_id": "17a61b83-efd0-4fd2-91b2-5ec0b39b8330"
+        }
+      ],
+      "determiners": [
+        {
+          "name": "Lado, P. (Paula)",
+          "agent_id": "7802e883-73b9-4fe6-9ca0-d29eb1cc7767"
+        }
+      ],
+      "countries": [
+        {
+          "id": "5f74ce16-f145-4c78-97f4-dba9f4b56e0a",
+          "name": "United States"
+        }
+      ],
+      "states": [
+        {
+          "id": "c2bcc979-4b2f-4b58-b7b9-319c23ca2d12",
+          "name": "Idaho"
+        }
+      ],
+      "counties": [
+        {
+          "id": "d3587332-f540-45c6-8fff-651631629961",
+          "name": "Latah"
+        }
+      ],
+      "towns": [
+        {
+          "id": "88a1377c-49f2-41b9-92fd-daeb1b67811d",
+          "name": "Moscow"
+        }
+      ],
+      "collecting_date": "none specified",
+      "specimen_image_modal_title": "OSAL 0125219",
+      "specimen_images": []
+    }
+  ],
+  "page": 1,
+  "page_count": 2850
+}
