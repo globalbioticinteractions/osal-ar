@@ -1,5 +1,147 @@
 {
-  "format": "",
-  "citation": "Ohio State University Acarology Laboratory",
-  "url": ""
+  "@context" : [ "http://www.w3.org/ns/csvw", {
+    "@language" : "en"
+  } ],
+  "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+  "tables" : [ {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "file:///home/jorrit/proj/globi/data-new/osal-ar/specimen-associations.tsv",
+    "dcterms:bibliographicCitation" : "Ohio State University Acarology Laboratory",
+    "delimiter" : "\t",
+    "headerRowCount" : 1,
+    "null" : [ "" ],
+    "tableSchema" : {
+      "columns" : [ {
+        "name" : "referenceUrl",
+        "titles" : "collecting_unit_id",
+        "datatype": {
+          "base" : "string",
+          "valueUrl" : "https://mbd-db.osu.edu/hol/collecting_units/{referenceUrl}"
+        }
+      }, {
+        "name" : "storage_regime_id",
+        "titles" : "storage_regime_id",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceInstitutionName",
+        "titles" : "storage_regime_display",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceCatalogNumber",
+        "titles" : "collecting_unit_display",
+        "datatype" : "string"
+      }, {
+        "name" : "verbatim_transcript_display",
+        "titles" : "verbatim_transcript_display",
+        "datatype" : "string"
+      }, {
+        "name" : "identified_as_id",
+        "titles" : "identified_as_id",
+        "datatype" : "string"
+      }, {
+        "name" : "identified_as_display",
+        "titles" : "identified_as_display",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonId",
+        "titles" : "valid_identified_as_id",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonName",
+        "titles" : "valid_identified_as_display",
+        "datatype" : "string"
+      }, {
+        "name" : "localityId",
+        "titles" : "locality_id",
+        "datatype" : "string"
+      }, {
+        "name" : "localityName",
+        "titles" : "locality_display",
+        "datatype" : "string"
+      }, {
+        "name" : "decimalLatitude",
+        "titles" : "latitude_display",
+        "datatype" : "string"
+      }, {
+        "name" : "decimalLongitude",
+        "titles" : "longitude_display",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceRecordNumber",
+        "titles" : "field_code_display",
+        "datatype" : "string"
+      }, {
+        "name" : "collecting_method_display",
+        "titles" : "collecting_method_display",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceSexName",
+        "titles" : "specimen_sex_display",
+        "datatype" : "string"
+      }, {
+        "name" : "SourceLifeStageName",
+        "titles" : "life_stage_display",
+        "datatype" : "string"
+      }, {
+        "name" : "determination_date_display",
+        "titles" : "determination_date_display",
+        "datatype" : "string"
+      }, {
+        "name" : "type_status_display",
+        "titles" : "type_status_display",
+        "datatype" : "string"
+      }, {
+        "name" : "habitatName",
+        "titles" : "habitat_display",
+        "datatype" : "string"
+      }, {
+        "name" : "http://rs.tdwg.org/dwc/terms/eventDate",
+        "titles" : "collecting_date",
+        "datatype" : "string"
+      }, {
+        "name" : "specimen_image_modal_title",
+        "titles" : "specimen_image_modal_title",
+        "datatype" : "string"
+      }, {
+        "name" : "wasDerivedFrom",
+        "titles" : "wasDerivedFrom",
+        "datatype" : "string"
+      }, {
+        "name" : "_sourceTaxonId",
+        "titles" : "sourceTaxonId",
+        "datatype" : "string"
+      }, {
+        "name" : "_sourceTaxonName",
+        "titles" : "sourceTaxonName",
+        "datatype" : "string"
+      }, {
+        "name" : "_sourceTaxonAuthorship",
+        "titles" : "sourceTaxonAuthorship",
+        "datatype" : "string"
+      }, {
+        "name" : "interactionTypeName",
+        "titles" : "interactionTypeName",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonId",
+        "titles" : "targetTaxonId",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "targetTaxonName",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonAuthorship",
+        "titles" : "targetTaxonAuthorship",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonStatus",
+        "titles" : "targetTaxonStatus",
+        "datatype" : "string"
+      } ]
+    }
+  } ]
 }

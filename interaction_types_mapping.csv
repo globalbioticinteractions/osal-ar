@@ -1,1 +1,148 @@
 provided_interaction_type_label,provided_interaction_type_id,mapped_to_interaction_type_label,mapped_to_interaction_type_id
+abdomen containing / on abdomen of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+alate host of / phoretic on alate,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+bulb containing / on bulb of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+bulb in soil with / in soil with bulb of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+cadaver containing / on cadaver of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+clump containing / in clump of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+culture containing / in culture of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+decayed bark containing / in decaying bark of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+decayed containing / in decaying,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+"decayed fruit, nut, seed containing / in decaying fruit, nut, seed of",,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+decayed log containing / in decaying log of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+decayed mulch containing / in decaying mulch of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+decayed root containing / in decaying root of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+decayed tree stump containing / in decaying tree stump of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+dump containing / in dump of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+eggs with / with eggs of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+fed on flower by / feeding on flower of,,eats,http://purl.obolibrary.org/obo/RO_0002470
+"fed on fruit, nut, seed by / feeding on fruit, nut, seed of",,eats,http://purl.obolibrary.org/obo/RO_0002470
+fed on gall by / feeding on gall of,,eats,http://purl.obolibrary.org/obo/RO_0002470
+fed upon bark by / feeding on bark of,,eats,http://purl.obolibrary.org/obo/RO_0002470
+"fed upon bud, shoot by / feeding on bud, shoot of",,eats,http://purl.obolibrary.org/obo/RO_0002470
+fed upon bulb by / feeding on bulb of,,eats,http://purl.obolibrary.org/obo/RO_0002470
+fed upon by / feeding on,,eats,http://purl.obolibrary.org/obo/RO_0002470
+fed upon leaf by / feeding on leaf of,,eats,http://purl.obolibrary.org/obo/RO_0002470
+fed upon leaf gall by / feeding on leaf gall of,,eats,http://purl.obolibrary.org/obo/RO_0002470
+fed upon root by / feeding on root of,,eats,http://purl.obolibrary.org/obo/RO_0002470
+fed upon shoot by / feeding on shoot of,,eats,http://purl.obolibrary.org/obo/RO_0002470
+fed upon stem by / feeding on stem of,,eats,http://purl.obolibrary.org/obo/RO_0002470
+fed upon tree trunk by / feeding on tree trunk of,,eats,http://purl.obolibrary.org/obo/RO_0002470
+"fed upon twig, branch by / feeding on twig, branch of",,eats,http://purl.obolibrary.org/obo/RO_0002470
+flower containing / on flower of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+galleries containing / in galleries of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+guano contaning / on guano of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+habitat for / inhabits,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+host abdomen of / parasitic on abdomen of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host abdomen of / phoretic on abdomen of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+host antenna of / phoretic on antenna of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+host body of / parasitic on body of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host body of / phoretic on body of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+host branchial chamber of / parasitic on branchial chamber of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host cloaca of / parasitic on cloaca of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host coxa of / parasitic on coxa of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host coxa of / phoretic on coxa of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+host ear of / parasitic in ear of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host ear of / parasitic on ear of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host egg of / parasitic on egg of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host eye of / parasitic on eye of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host eye of / phoretic on eye of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+host genitalia of / parasitic on genitalia of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host gills of / parasitic on gills of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host hair of / parasitic on hair of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host head of / parasitic on head of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host head of / phoretic on head of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+host hypodermis of / parasitic on hypodermis of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host larva of / larval parasite of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host larva of / parasitic on larva of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host leg of / phoretic on leg of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+host limb of / parasitic on limb of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host limb of / phoretic on limb of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+host lung of / parasitic on lung of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host mouth of / parasitic on mouth of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host nipple of / parasitic on nipple of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host nose of / parasitic in nose of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host nose of / parasitic on nose of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host of mother of / mother parasitic on,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host of / paraphage on,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+host of / parasite of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host of / phoretic on,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+host pupa of / parasitic on pupa of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host quill feather (covert) of / parasitic on quill feather (covert) of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host quill feather (flight feather) of / parasitic on quill feather (flight feather) of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host quill feather of / parasitic on quill feather of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host quill feather (tail feather) of / parasitic on quill feather (tail feather) of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host skin of / parasitic in skin of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host skin of / parasitic on skin of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host stomach of / parasitic on stomach of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host tail of / parasitic on tail of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host tail of / phoretic on tail of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+host thorax of / parasitic on thorax of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host thorax of / phoretic on thorax of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+host trachea of / parasitic on trachea of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host wash of / parasitic on wash of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host wing of / parasitic on wing of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+host wing of / phoretic on wing of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+in field with,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+in litter with,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+in log with,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+in soil with,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+in water with,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+leaf containing / on leaf of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+leaves containing / between leaves of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+litter containing / in litter of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+litter of treehole containing / in litter of treehole of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+litter under log containing / in litter under log of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived in by / living in,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on bark by / living on bark of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on body by / living on body of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on bud by / living on bud of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on bulb by / living on bulb of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on by / living on,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on feather by / living on feather of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on flower by / living on flower of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+"lived on fruit, nut, seed by / living on fruit, nut, seed of",,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on hair by / living on hair of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on head by / living on head of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on leaf by / living on leaf of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on log by / living on log of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+"lived on nut, seed by / living on nut, seed of",,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on pupa by / living on pupa of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on root by / living on root of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on sapflow by / living on sapflow of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on seed by / living on seed of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on shoot by / living on shoot of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on stem by / living on stem of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on tail by / living on tail of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on tree trunk by / living on tree trunk of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+"lived on twig, branch by / living on twig, branch of",,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on wash by / living on wash of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived on wing by / living on wing of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived under bark by / living under bark of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived within colon by / living in colon of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived within hypodermis by / living in hypodermis of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived within pitcher by / living in pitcher of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived within synovial fluid by / living in synovial fluid of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+lived within treehole by / living in treehole of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+living with,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+log containing / in log of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+manure (feces) containing / in manure (feces) of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+nest containing / in nest of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+prey egg of / egg predator of,,preys on,http://purl.obolibrary.org/obo/RO_0002439
+prey larva of / larval predator of,,preys on,http://purl.obolibrary.org/obo/RO_0002439
+prey of / predator of,,preys on,http://purl.obolibrary.org/obo/RO_0002439
+roost containing / in roost of,,co-roosts with,http://purl.obolibrary.org/obo/RO_0002801
+root in soil with / in soil with root of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+rotten stump containing / in rotten stump of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+silk tube containing / in silk tube of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+skin containing / on skin of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+stable containing / in stable with,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+stomach of cadaver containing / on stomach of cadaver of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+thorax containing / on thorax of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+treehole containing / in treehole of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+under bark by / under bark of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+under elytral host of / parasitic under elytra of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+under elytral host of / phoretic under elytra of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+under scales host of / parasitic under scales of,,parasite of,http://purl.obolibrary.org/obo/RO_0002444
+unspecified association,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
+wing containing / on wing of,,interacts with,http://purl.obolibrary.org/obo/RO_0002437
