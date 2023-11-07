@@ -24,5 +24,5 @@ track_units() {
    | xargs -L25 preston track
 }
 
-#track_records
+track_records
 track_units
