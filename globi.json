@@ -12,7 +12,7 @@
     "dcterms:bibliographicCitation" : "Klompen H, Johnson N (2018). Ohio State Acarology Laboratory (OSAL), Ohio State University. Museum of Biological Diversity, The Ohio State University. Accessed via https://mbd-db.osu.edu/hol/taxon_name/05fbf4bb-f8e1-404e-a27c-759d345aa4d0 on 2023-11-06 hash://sha256/fb23140e60f4889de35ae174b2570cf294012bff4f2c8c419c292af51c98c25f",
     "delimiter" : "\t",
     "headerRowCount" : 1,
-    "null" : [ "", "NA", "no date"],
+    "null" : [ "", "NA", "no date", "No determination"],
     "tableSchema" : {
       "columns" : [ {
         "name" : "referenceUrl",
