@@ -1,4 +1,4 @@
-[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/osal-ar&refutes=true&refutes=false)](https://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/osal-ar)
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/osal-ar&refutes=true&refutes=false)](https://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/osal-ar) [![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:c661978af87996301e495a9d5e25daa46c4000ee/)](https://archive.softwareheritage.org/swh:1:dir:c661978af87996301e495a9d5e25daa46c4000ee;origin=https://github.com/globalbioticinteractions/osal-ar;visit=swh:1:snp:1d39f1f93a829fc8903abae5a77198b2eabd3884;anchor=swh:1:rev:766c1a177de7b85a9422e20c7cc9f074da35bf96)
 
 Configuration to help Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) index: 
 
@@ -12,12 +12,15 @@ With no re-usable dataset available, a signed data package for OSAL was created 
 
 A data package was created using Preston[1,2,3] via the [make.sh](make.sh) bash script. The resulting package has signature hash://sha256/fb23140e60f4889de35ae174b2570cf294012bff4f2c8c419c292af51c98c25f and associated provenance and content was stored in the [data/](data/) folder.
 
-The content of the OSAL data package can be listed via:
+The index of the OSAL data package can be listed using the following bash command - 
 
-preston ls --anchor 
+```bash
+preston ls\
+ --anchor hash://sha256/fb23140e60f4889de35ae174b2570cf294012bff4f2c8c419c292af51c98c25f\
+ --remote https://linker.bio,https://softwareheritage.org
+```
 
-
-
+## References
 
 [1] Elliott M.J., Poelen J.H., Fortes J.A.B. (2020). Toward Reliable Biodiversity Dataset References. Ecological Informatics. https://doi.org/10.1016/j.ecoinf.2020.101132 hash://sha256/136c3c1808bcf463bb04b11622bb2e7b5fba28f5be1fc258c5ea55b3b84f482c
 
