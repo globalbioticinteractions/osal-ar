@@ -8,9 +8,14 @@ Klompen H, Johnson N (2018). Ohio State Acarology Laboratory (OSAL), Ohio State 
 
 At time of writing, 2023-11-07, the Ohio State Acarology Laboratory (OSAL) was no longer available via their original location at http://xbiod.osu.edu/ipt/archive.do?r=osal . In tracing the provenance of this web location, no activity after 2018 was detected. However, the site at https://mbd-db.osu.edu/hol/taxon_name/05fbf4bb-f8e1-404e-a27c-759d345aa4d0 did appear to be active. 
 
-With no re-usable dataset available, a signed data package for OSAL was created using a hybrid approach of tracking structured data via the Museum of Biological Diversity Database API as well as scraping semi-structured OSAL html pages (e.g., https://mbd-db.osu.edu/hol/taxon_name/05fbf4bb-f8e1-404e-a27c-759d345aa4d0 , https://mbd-db.osu.edu/hol/collecting_units/0eae5d0c-c286-3aaa-e053-0100007f2cc9). 
+With no re-usable dataset available, a signed data package for OSAL was created using a hybrid approach of tracking structured data via the Museum of Biological Diversity Database API (e.g., [https://mbd-db.osu.edu/api/v1/backend_table/hol/taxon_name/collecting_units/records?taxon_name_id=05fbf4bb-f8e1-404e-a27c-759d345aa4d0&page=2826](data/9f/7d/9f7d85aa80aee850136c13b866118c284ce7b6e734e637d1ccef01f20b591c5a)),  as well as scraping semi-structured OSAL html pages (e.g., [https://mbd-db.osu.edu/hol/collecting_units/0eae5d0a-7cff-3aaa-e053-0100007f2cc9](data/87/e8/87e8a60fd72b9d1aa0823dc58194ef45c94fcb25c5d1e0c30fd743853d42844d)).
 
-A data package was created using Preston[1,2,3] via the [make.sh](make.sh) bash script. The resulting package has signature hash://sha256/fb23140e60f4889de35ae174b2570cf294012bff4f2c8c419c292af51c98c25f and associated provenance and content was stored in the [data/](data/) folder.
+
+A data package was created using Preston[1,2,3] via the [track.sh](track.sh) bash script. The resulting package has signature hash://sha256/fb23140e60f4889de35ae174b2570cf294012bff4f2c8c419c292af51c98c25f and associated provenance and content was stored in the [data/](data/) folder.
+
+Following, the signed OSAL data package was used to compile a table [specimen-associations.tsv](specimen-associations.tsv) via [make.sh](make.sh).
+
+
 
 The index of the OSAL data package can be listed using the following bash command - 
 
